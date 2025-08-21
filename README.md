@@ -2,25 +2,24 @@
 
 **Flutter Developer | Aspiring AI Engineer**  
 
-I’m a developer from India 🇮🇳, currently working with **Flutter** to build cross-platform apps.  
-My long-term vision is to transition into **AI/ML, Deep Learning, and Generative AI** to become an **AI Engineer**.  
+I’m a developer from India 🇮🇳, currently building cross-platform mobile apps with **Flutter**.  
+My long-term vision is to transition into **AI/ML, Deep Learning, and Generative AI** to become a skilled **AI Engineer**.  
 
 ---
 
 ## 🛠️ Skills & Technologies  
 
-- **Mobile Development:** Flutter (Dart), Riverpod, Firebase, Appwrite  
-- **Programming:** Python, JavaScript (basics)  
+- **Mobile Development:** Flutter (Dart), Riverpod, Firebase, Appwrite, Android, iOS  
+- **Programming Languages:** Python, Dart, Java  
 - **Data & AI (Learning):** Machine Learning, Deep Learning, Generative AI  
-- **Tools & Workflow:** Git/GitHub, REST APIs, UI/UX best practices  
+- **Tools & Workflow:** Git/GitHub, REST APIs, UI/UX best practices, Python Libraries, DevOps Tools  
 
 ---
 
 ## 📚 Current Focus  
 
-- 🚀 Mastering advanced **Flutter & State Management**  
-- 🤖 Learning **Machine Learning & Deep Learning** with Python  
-- 🧠 Exploring **Generative AI** and its applications in mobile development  
+- 🤖 Advancing in **Machine Learning & Deep Learning** with Python  
+- 🧠 Exploring **Generative AI** and its integration with mobile apps  
 
 ---
 
@@ -44,4 +43,4 @@ My long-term vision is to transition into **AI/ML, Deep Learning, and Generative
 
 ---
 
-⭐ *Focused on Flutter today, building for AI tomorrow.*
+⭐ *Focused on Flutter today, building for AI tomorrow.*  
