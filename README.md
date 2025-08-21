@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👩‍💻 Manisha Dharmik  
 
-<!--
-**manishadharmik7/manishadharmik7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Flutter Developer | Aspiring AI Engineer**  
 
-Here are some ideas to get you started:
+I’m a developer from India 🇮🇳, currently working with **Flutter** to build cross-platform apps.  
+My long-term vision is to transition into **AI/ML, Deep Learning, and Generative AI** to become an **AI Engineer**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Technologies  
+
+- **Mobile Development:** Flutter (Dart), Riverpod, Firebase, Appwrite  
+- **Programming:** Python, JavaScript (basics)  
+- **Data & AI (Learning):** Machine Learning, Deep Learning, Generative AI  
+- **Tools & Workflow:** Git/GitHub, REST APIs, UI/UX best practices  
+
+---
+
+## 📚 Current Focus  
+
+- 🚀 Mastering advanced **Flutter & State Management**  
+- 🤖 Learning **Machine Learning & Deep Learning** with Python  
+- 🧠 Exploring **Generative AI** and its applications in mobile development  
+
+---
+
+## 📊 GitHub Insights  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manishadharmik7&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manishadharmik7&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manishadharmik7&theme=tokyonight&hide_border=false)  
+
+---
+
+## 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manishadharmik)  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/manishadharmik7)  
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?logo=linktree&logoColor=white)](https://linktr.ee/codecraftmanisha)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://youtube.com/@codecraftmanisha_official?si=JQt6TOeebwz0ePKN)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/codecraftmanisha_official/profilecard/?igsh=NWU4cTg3ZHNwYmtn)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://manishadharmik7.github.io/manishadharmik7.manisha_portfolio/)  
+[![Resume](https://img.shields.io/badge/Resume-%23FFDD00.svg?logo=googledocs&logoColor=black)](https://drive.google.com/file/d/1Z0xLskvtsrIUm7BTuCG6EZR2fO3-1ps7/view)  
+
+---
+
+⭐ *Focused on Flutter today, building for AI tomorrow.*
